@@ -1,0 +1,5 @@
+{
+  "name": "MauriShare",
+  "description": "Transferencia instantánea de archivos P2P entre dispositivos en tiempo real con WebRTC y respaldo seguro por WebSocket.",
+  "requestFramePermissions": []
+}
